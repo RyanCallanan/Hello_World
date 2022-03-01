@@ -19,4 +19,6 @@
 # Files Used 
 
 # Additional Documentation
+
 # Version Summary
+Each one of these videos can help improve your GitHub skills, and allow for both time consuming and non-time consuming work on the page. 
