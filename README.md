@@ -15,6 +15,9 @@ https://www.youtube.com/watch?v=RGOj5yH7evk
 **20 Minute Video:**
 https://www.youtube.com/watch?v=nhNq2kIvi9s
 
+**Cheat Sheat**
+https://www.markdownguide.org/cheat-sheet/
+
 # Files Used 
 # Additional Documentation
 # Version Summary
