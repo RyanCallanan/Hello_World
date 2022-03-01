@@ -28,6 +28,7 @@ https://www.markdownguide.org/
 # Additional Documentation
 
 **For more information on GitHub see main website**
+
 https://github.com/
 
 # Version Summary
