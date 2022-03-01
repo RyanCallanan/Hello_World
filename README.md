@@ -27,5 +27,8 @@ https://www.markdownguide.org/
 
 # Additional Documentation
 
+**For more information on GitHub see main website**
+https://github.com/
+
 # Version Summary
 Each one of these videos can help improve your GitHub skills, and allow for both time consuming and non-time consuming work on the page. 
