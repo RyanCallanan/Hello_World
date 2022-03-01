@@ -8,13 +8,13 @@
 # How to Run Program
 ***Videos to improve***
 
--**1 Hour Video:** [https://www.youtube.com/watch?v=RGOj5yH7evk]
+-**1 Hour Video:** https://www.youtube.com/watch?v=RGOj5yH7evk
 
--**20 Minute Video:** [https://www.youtube.com/watch?v=nhNq2kIvi9s]
+-**20 Minute Video:** https://www.youtube.com/watch?v=nhNq2kIvi9s
 
--**Markdown Sheet** [https://www.markdownguide.org/cheat-sheet/]
+-**Markdown Sheet** https://www.markdownguide.org/cheat-sheet/
   
--**Basic writing/formatting** [https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax]
+-**Basic writing/formatting** https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
   
 # Files Used 
 _Orgin_ of each link above:
