@@ -12,8 +12,11 @@
 
 -**20 Minute Video:** https://www.youtube.com/watch?v=nhNq2kIvi9s
 
--**Cheat Sheat** https://www.markdownguide.org/cheat-sheet/
-
+-**Markdown Sheet** https://www.markdownguide.org/cheat-sheet/
+  
+-**Basic writing/formatting** https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax  
+  
 # Files Used 
+
 # Additional Documentation
 # Version Summary
